@@ -112,3 +112,4 @@ By implementing Blockchain Technologies companies are able to by-pass the Line O
 
 More than efficiencies gain and better consumer services, AI is being used to make global trade sustainableusing real-time machine learning tools, allowing governments and other organizations are able to identify suspicious behaviors and develop sustainable policies. This not only good or the investor, it also provides a way of keeping up with changes on the international trade circuit. 
 
+## References 
