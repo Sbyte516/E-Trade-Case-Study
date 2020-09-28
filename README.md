@@ -118,3 +118,10 @@ More than efficiencies gain and better consumer services, AI is being used to ma
 (https://en.wikipedia.org/wiki/E-Trade, https://www.encyclopedia.com/economics/economics-magazines/etrade-group-inc), (https://www.w3schools.com/jquery/jquery_intro.asp#:~:text=jQuery%20is%20a%20lightweight%2C%20%22write,a%20single%20line%20of%20code), 
 (https://agilie.com/en/blog/how-to-build-a-trading-platform-5-things-to-know-before-you-start-a-stock-market-app-like-e-trade), 
 (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript),
+(https://etradeforall.org/5-technologies-that-will-forever-change-global-trade/),
+(https://www.investopedia.com/terms/f/financial-holding-company-fhc.asp#:~:text=Key%20Takeaways,meeting%20capital%20and%20management%20standards)
+(https://www.ruleoneinvesting.com/blog/how-to-invest/important-financial-metrics-that-we-use/#:~:text=Financial%20metrics%20are%20the%20key,at%20to%20find%20important%20metrics)
+(https://www.businesswire.com/news/home/20200423005724/en/E*TRADE-Financial-Corporation-Announces-First-Quarter-2020-Results)
+
+
+
