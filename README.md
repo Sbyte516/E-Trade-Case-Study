@@ -64,7 +64,7 @@ Released in 2012 E-Trade Pro is a desktop system and can be used to trade stocks
 Primary companies in this space include: Fidelity, TD Ameritrade, Merrill Edge, Ally Invest, Charles Schwab
 
 ## Results
-The business impacts E-Trade has had in the field of Finacial Service Investments is descibed:
+The business impacts E-Trade has had in the world of finance is descibed:
 
 E-Trade Financial Corporation operates as a diversified financial service holding company, that can offer non-banking financial services, such as insurance underwriting and investment advisory services. E-Trade also provides an electronic trading platform for both beginner and experienced traders who want to buy and sell financial assets like common stock, preferred stock, future contracts, mutual funds, options, fixed income investments, and exchange-traded funds. It also offers banking products through the E-Trade Bank, an FDIC-registered federal savings bank, to help maximize the value of deposits generated in its brokerage business. 
 
