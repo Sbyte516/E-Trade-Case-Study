@@ -8,3 +8,16 @@ E*TRADE Financial Corporation is an American financial services company that off
 stock ownership plans, student loan benefit administration, advisor services, margin lending, online banking, and cash management services. Established by founders William A. Porter & Bernard A. Newcomb, in San Francisco in 1991, E-trade become the fastest-growing private company in the United States.
 
 The idea of E-trade came to fruition by way of William Porter and Bernard Newcomb's innovative desire for deep-discount brokerage services. Instead of the monthly fees charged by TradePlus, E-Trade the subsidiary would offer flat-rate trading and free information services via the online services, including America Online and CompuServe. In 1991 William Porter and Bernard Newcomb founders of TradePlus decide to establish a new brokerage company, E-Trade Securities Inc.
+
+E-Trade became a public company in 1996 via an initial public offering, where they received their funding through an IPO, which at the time the company had received an estimated 46.4 million for money raised at IPO. 
+
+## Business Activities
+Access to online investment was just bergeoning, there were few companies in the beginning that provided investment services through and online median 
+and offered trading for day to day up to the minute transactions for a plethora of investment opportunities. E-trade aimed to close the gap in this department, 
+this company took it upon themselves to allow access to online investing and trading to its customers and a host of other financial services related to wealth 
+management and banking, availability of investment information, accessible by the online services' customers 24 hours per day, to cut the cost of trading, while 
+automating transactions between customer and host. 
+
+The intended participants in this domain would range from Banking institutions & Brokerage Firms to your average Self-Directed Investor or (DIY) investors.
+This opened up a whole new relm of possiblilities. 
+
