@@ -48,3 +48,31 @@ Animate.css - Is a proposed module for Cascading Style Sheets that allows the an
 Adobe Experience Manager - It is a Web Content Management System that allows companies to manage their web content (Web pages, digital assets, forms, etc.) and also create digital experiences with this content on any platform web, mobile or IoT. It also includes a collection of integrated online marketing and Web analytics products by Adobe Inc. Web analytics is the measurement, collection, analysis and reporting of web data for purposes of understanding and optimizing web usage. 
 The Web analytics can be a useful tool for business and market research, and to asses the effectiveness of a website. The web analytics can also help companies calculate the result of traditional print or broadcast advertising campaigns, and measure traffic. 
 
+## Landsacpe
+E-trade occupies the domain of Financial Service Investment
+
+Marjor innovations and trends of E-trade for the last 10-5 years has been as follows:
+Banking Firms such as Morgan Stanley and Charles Schwab are moving towards acquiring financial service investment companies like E-trade & TD Ameritrade, targeting smaller everyday investors of more moderate wealth, on larger scale, a rush for more mom and pop investors. A positive trend for consumers, putting financial advice at the finger-tips of a population that hadn't previously had access.
+
+Morgan Stanley announced in February of 2020 that it is buying E-Trade, an online brokerage and digital bank, for$13 billion. Which will then incorporate its full-service, financial-advisor-driven business model with E-Trade’s digital brokerage and banking business, to manage money for investors more cheaply. with the aim of keeping younger customers long-term as they grow wealth and turn to the firm for more help, and to sell a broader array of services to current customers.
+
+Released in 2012 E-Trade Pro is a desktop system and can be used to trade stocks, ETF's, options, and futures. As the name implies, it is the broker's most advanced platform. It has Level II quotes, market news, security search, and a margin analyzer.
+
+Primary companies in this space include: Fidelity, TD Ameritrade, Merrill Edge, Ally Invest, Charles Schwab
+
+## Results
+The business impacts E-Trade has had in the field of Finacial Service Investments is descibed below:
+E-Trade Financial Corporation operates as a diversified financial service holding company, that can offer non-banking financial services, such as insurance underwriting and investment advisory services. E-Trade also provides an electronic trading platform for both beginner and experienced traders who want to buy and sell financial assets like common stock, preferred stock, future contracts, mutual funds, options, fixed income investments, and exchange-traded funds. It also offers banking products through the E-Trade Bank, an FDIC-registered federal savings bank, to help maximize the value of deposits generated in its brokerage business. 
+
+Revenue for the e-Trading Software Developers industry, defined as companies that operate online securities trading websites and other software programs for the securities market, has increased at an annualized rate of 3.6% to $10.7 billion over the five years to 2020.
+
+There are five core-metrics large companies use in evaluating their preformance for their fiscal year analysis, accordingly
+there are numbers describing E-trades current evalutions attached to the core-metrics. 
+5 Core Metrics:
+•	Liquidity on the Balance sheets (7.01 B)
+•	Current Ratio: (0.31)
+•	Earnings Growth and Growth of Net Income on the Income Statement (716 M)
+•	Return on Assets (70 M)
+•	Operating Cash Flow from The Cash Flow Statements (3.07 B)
+
+
