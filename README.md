@@ -33,6 +33,7 @@ The company also offers online investing courses from independent investment res
 like gender diversity, clean energy and cybersecurity.
 
 Technologies implemeted by E-trade include the following:
+
 J-Query 
 Is a lightweight, “write less, do more”, JavaScript Library. The purpose of J-Query is to make it much easier to use Java on your website.  J-Query takes a lot of common tasks that may require many lines of JavaScript, and wraps into single line of code.  This program also simplifies complicated things from JavaScript, like Ajax calls and DOM manipulation. J-Query also contains plugins for most tasks. JQ-is essentially a cross-platform JavaScript library designed to simplify the client-side scripting of HTML
 The JQ library contains: (HTIML/DOM manipulation, CSS manipulation, HTML event methods, Effects and animations, AJAX, Utilities).  Concluding J-Query is simply a library, which is just a collection of tools that allows us to implement functionalities of effects without the need to write all the code that is really needed to do it.  
