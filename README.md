@@ -113,4 +113,8 @@ By implementing Blockchain Technologies companies are able to by-pass the Line O
 More than efficiencies gain and better consumer services, AI is being used to make global trade sustainableusing real-time machine learning tools, allowing governments and other organizations are able to identify suspicious behaviors and develop sustainable policies. This not only good or the investor, it also provides a way of keeping up with changes on the international trade circuit. 
 
 ## References 
-(http://www.fundinguniverse.com/company-histories/e-trade-financial-corporation-history/, https://www.investopedia.com/terms/c/capital-investment.asp#:~:text=Capital%20investment%20is%20a%20broad,the%20profits%20down%20the%20road, https://en.wikipedia.org/wiki/E-Trade, https://www.encyclopedia.com/economics/economics-magazines/etrade-group-inc, https://www.w3schools.com/jquery/jquery_intro.asp#:~:text=jQuery%20is%20a%20lightweight%2C%20%22write,a%20single%20line%20of%20code, https://agilie.com/en/blog/how-to-build-a-trading-platform-5-things-to-know-before-you-start-a-stock-market-app-like-e-trade, https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript,
+(http://www.fundinguniverse.com/company-histories/e-trade-financial-corporation-history/), 
+(https://www.investopedia.com/terms/c/capital-investment.asp#:~:text=Capital%20investment%20is%20a%20broad,the%20profits%20down%20the%20road),
+(https://en.wikipedia.org/wiki/E-Trade, https://www.encyclopedia.com/economics/economics-magazines/etrade-group-inc), (https://www.w3schools.com/jquery/jquery_intro.asp#:~:text=jQuery%20is%20a%20lightweight%2C%20%22write,a%20single%20line%20of%20code), 
+(https://agilie.com/en/blog/how-to-build-a-trading-platform-5-things-to-know-before-you-start-a-stock-market-app-like-e-trade), 
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript),
