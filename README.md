@@ -1,6 +1,6 @@
 # Pioneers Of New Found Trade
 
-![Logo](E_Trade_Securities-logo-381D3512C3-seeklogo.com.png)
+![Logo](etrade-logo.webp)
 
 ## Historic Overview
 ### E-Trade
