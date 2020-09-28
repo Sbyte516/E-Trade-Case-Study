@@ -22,6 +22,7 @@ The intended participants in this domain would range from Banking institutions &
 This opened up a whole new relm of possiblilities. 
 
 E-trade currently offers a wide range of services not available anywhere else: 
+
 E-TRADE has three trading platforms — E-TRADE Web, Power E-TRADE and E-TRADE Pro. All are free and available to all customers, with no trade activity or balance minimums.
 Mobile app: E-TRADE’s two free mobile apps are standouts, perhaps the best available from any online broker. Both are available for iOS and Android.
 
@@ -52,6 +53,7 @@ The Web analytics can be a useful tool for business and market research, and to 
 E-trade occupies the domain of Financial Service Investment
 
 Marjor innovations and trends of E-trade for the last 10-5 years has been as follows:
+
 Banking Firms such as Morgan Stanley and Charles Schwab are moving towards acquiring financial service investment companies like E-trade & TD Ameritrade, targeting smaller everyday investors of more moderate wealth, on larger scale, a rush for more mom and pop investors. A positive trend for consumers, putting financial advice at the finger-tips of a population that hadn't previously had access.
 
 Morgan Stanley announced in February of 2020 that it is buying E-Trade, an online brokerage and digital bank, for$13 billion. Which will then incorporate its full-service, financial-advisor-driven business model with E-Trade’s digital brokerage and banking business, to manage money for investors more cheaply. with the aim of keeping younger customers long-term as they grow wealth and turn to the firm for more help, and to sell a broader array of services to current customers.
@@ -61,7 +63,8 @@ Released in 2012 E-Trade Pro is a desktop system and can be used to trade stocks
 Primary companies in this space include: Fidelity, TD Ameritrade, Merrill Edge, Ally Invest, Charles Schwab
 
 ## Results
-The business impacts E-Trade has had in the field of Finacial Service Investments is descibed below:
+The business impacts E-Trade has had in the field of Finacial Service Investments is descibed:
+
 E-Trade Financial Corporation operates as a diversified financial service holding company, that can offer non-banking financial services, such as insurance underwriting and investment advisory services. E-Trade also provides an electronic trading platform for both beginner and experienced traders who want to buy and sell financial assets like common stock, preferred stock, future contracts, mutual funds, options, fixed income investments, and exchange-traded funds. It also offers banking products through the E-Trade Bank, an FDIC-registered federal savings bank, to help maximize the value of deposits generated in its brokerage business. 
 
 Revenue for the e-Trading Software Developers industry, defined as companies that operate online securities trading websites and other software programs for the securities market, has increased at an annualized rate of 3.6% to $10.7 billion over the five years to 2020.
