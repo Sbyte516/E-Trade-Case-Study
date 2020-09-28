@@ -31,3 +31,19 @@ The Power E*TRADE app offers many capabilities on the go: Traders can access the
 
 The company also offers online investing courses from independent investment research company Morningstar, covering everything from stocks 101 to how to build an emergency fund. A thematic investing section of the E*TRADE website includes advice for how to invest in companies that align with specific values, 
 like gender diversity, clean energy and cybersecurity.
+
+Technologies implemeted by E-trade include the following:
+J-Query 
+Is a lightweight, “write less, do more”, JavaScript Library. The purpose of J-Query is to make it much easier to use Java on your website.  J-Query takes a lot of common tasks that may require many lines of JavaScript, and wraps into single line of code.  This program also simplifies complicated things from JavaScript, like Ajax calls and DOM manipulation. J-Query also contains plugins for most tasks. JQ-is essentially a cross-platform JavaScript library designed to simplify the client-side scripting of HTML
+The JQ library contains: (HTIML/DOM manipulation, CSS manipulation, HTML event methods, Effects and animations, AJAX, Utilities).  Concluding J-Query is simply a library, which is just a collection of tools that allows us to implement functionalities of effects without the need to write all the code that is really needed to do it.  
+E-Trade like most web-based apps would more be likely to use this for cross-platform functionality, across all web based-severs, to have an integrated user-friendly interface for better access to information while promoting and facilitating client /consumer transactions between the client and host.
+
+Apache HTTP Server
+Is Free Open-Source cross-platform web server software, this web-server software can satisfy client requests on the world web, can generally contain one or more websites, and process incoming network requests over HTTP (Hyper Text Transfer Protocol). Pages delivered are most frequently HTML documents, which may include images, style sheets and scripts in addition to the text content. 
+E-Trade may use this function Apache HTTP Server to streamline communication across a larger world-wide network, to improve connectivity and service, allowing the severe software to be implemented on multiple computing platforms. 
+
+Animate.css - Is a proposed module for Cascading Style Sheets that allows the animation of HTML document elements using CSS. This may be used in order to render images on a website for marketing or advertising purposes, and or create a personalized experience for the end user. 
+
+Adobe Experience Manager - It is a Web Content Management System that allows companies to manage their web content (Web pages, digital assets, forms, etc.) and also create digital experiences with this content on any platform web, mobile or IoT. It also includes a collection of integrated online marketing and Web analytics products by Adobe Inc. Web analytics is the measurement, collection, analysis and reporting of web data for purposes of understanding and optimizing web usage. 
+The Web analytics can be a useful tool for business and market research, and to asses the effectiveness of a website. The web analytics can also help companies calculate the result of traditional print or broadcast advertising campaigns, and measure traffic. 
+
