@@ -1,6 +1,6 @@
 # Pioneers Of New Found Trade
 
-![Logo](127812594-konskie-poland-05-may-2019-e-trade-financial-corporation-logo-displayed-on-huawei-smartphone.jpg)
+![Logo](https://previews.123rf.com/images/piter2121/piter21211905/piter2121190500046/127812594-konskie-poland-05-may-2019-e-trade-financial-corporation-logo-displayed-on-huawei-smartphone.jpg)
 
 ## Historic Overview
 ### E-Trade
