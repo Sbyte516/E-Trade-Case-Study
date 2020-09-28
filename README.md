@@ -68,11 +68,43 @@ Revenue for the e-Trading Software Developers industry, defined as companies tha
 
 There are five core-metrics large companies use in evaluating their preformance for their fiscal year analysis, accordingly
 there are numbers describing E-trades current evalutions attached to the core-metrics. 
+
 5 Core Metrics:
+
 •	Liquidity on the Balance sheets (7.01 B)
 •	Current Ratio: (0.31)
 •	Earnings Growth and Growth of Net Income on the Income Statement (716 M)
 •	Return on Assets (70 M)
 •	Operating Cash Flow from The Cash Flow Statements (3.07 B)
 
+Relative to its competitors, E-Trade Ranks no. 4 out of 16 for best online brokers according to StockBrokers.com’s 10th annual review for 2020. E-Trade finished No.1 in Mobile Trading and Options Trading for its feature-rich apps that deliver speed, ease of use, and the tools needed for Mobil Trading and Options trading. E trade is seen as the, “The Best Web-Based,” Platform of 2020. 
+
+## Recommendations
+An area where E-Trade falls short, that company could make adjustments and improvements to me would be its ability to directly access international markets or to trade foreign currencies. By doing so E-Trade could open up a portal to new investment and money making opportunities that would offset the cost of competing with companies within the same space, among other advantages that internation trade has to offer, that we will be metioned here. 
+
+Top advantages of international trade is you may be able to increase your number of potential clients. Each country you add to your list can open up a new pathway to business growth and increased revenues.
+national survey of 1,004 small business leaders conducted, shows that business leaders engaged in global trade say they're growing faster and hiring more employees than small businesses who stay stateside.
+
+Decreased competition is also a good reason to adopt this strategy, your product and services may have to compete in a crowded market in the U.S, but you may find that you have less competition in other countries.
+
+Longer product lifespan sales can dip for certain products domestically as Americans stop buying them or move to upgraded versions over time. Selling a product to an overseas market can extend the life of an existing product as emerging markets seek to buy American products.
+
+Easier cash-flow management, getting paid upfront may be one of the hidden advantages of international trade. When trading internationally, it may be a general practice to ask for payment upfront, whereas at home you may have to be more creative in managing cash flow while waiting to be paid. Expanding your business overseas could help you manage cash flow better.
+
+Better risk management One of the significant advantages of international trade is market diversification. Focusing only on the domestic market may expose you to increased risk from downturns in the economy, political factors, environmental events and other risk factors. Becoming less dependent on a single market may help you mitigate potential risks in your core market.
+
+Benefiting from currency exchange Those who add international trade to their portfolio may also benefit from currency fluctuations. For example, when the U.S. dollar is down, you may be able to export more as foreign customers benefit from the favorable currency exchange rate.
+
+Disposal of surplus goods One of the advantages of international trade is that you may have an outlet to dispose of surplus goods that you're unable to sell in your home market.
+
+Enhanced reputation Doing business in other countries can boost your company's reputation. Successes in one country can influence success in other adjacent countries, which can raise your company's profile in your market niche. It can also help increase your company's credibility, both abroad 
+and at home. This is one of the advantages of international trade that may be difficult to quantify and, therefore, easy to ignore.
+
+Opportunity to specialize International markets can open up avenues for a new line of service or products. It can also give you an opportunity to specialize in a different area to serve that market.
+
+Technologies that would provide solutions for this challange would be to implemente Blockchain Technologies, as well as the use of Atrificial Intelligence and Macine learning Algorithims.
+
+By implementing Blockchain Technologies companies are able to by-pass the Line Of Credit (LoC) altogether by providing real-time tracking of goods and inventory financing that de-risks transactions, and allows financiers to provide working capital relief to all supply chain partners at the lowest cost of capital in that chain.
+
+More than efficiencies gain and better consumer services, AI is being used to make global trade sustainableusing real-time machine learning tools, allowing governments and other organizations are able to identify suspicious behaviors and develop sustainable policies. This not only good or the investor, it also provides a way of keeping up with changes on the international trade circuit. 
 
